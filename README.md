@@ -12,9 +12,13 @@ CSV Files: The generated data is stored as CSV files before processing.
 # Tools Used
 
 Programming: Python
+
 Orchestration: Apache Airflow
+
 Database: Postgres
+
 Data Generation: Faker(Python)
+
 Transformation:Pandas
 
 # ETL Process Flow
@@ -27,5 +31,6 @@ Transformation:Pandas
 # Conclusion
 
 The Afrik Mall ETL Pipeline successfully automates the process of extracting, transforming, and loading synthetic sales data into a structured PostgreSQL database. By leveraging Faker for data generation, Apache Airflow for orchestration, and PostgreSQL for storage, this project demonstrates an efficient approach to handling ETL workflows.
+
 This pipeline can be extended to support real-world datasets, integrate cloud storage solutions like AWS S3, and implement real-time data processing with tools like Apache Kafka. Future improvements will focus on data validation, performance optimization, and advanced analytics to derive meaningful insights.
 
