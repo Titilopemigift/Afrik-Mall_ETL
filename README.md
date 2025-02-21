@@ -1,4 +1,4 @@
-# Afrik-Mall_ETL_Pipeline
+# Afrik-Mall-ETL-Pipeline
 
 # Project Overview
  
