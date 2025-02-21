@@ -7,6 +7,7 @@ The Afrik Mall ETL Pipeline is an automated data pipeline designed to extract, t
 # Data Sources
 
 Faker-Generated Dataset: Synthetic sales data created using the Faker library in Python.
+
 CSV Files: The generated data is stored as CSV files before processing.
 
 # Tools Used
